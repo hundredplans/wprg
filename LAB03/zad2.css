@@ -1,0 +1,25 @@
+h2 {
+    font-family: cursive;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 ~ p {
+    text-align: justify;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.second {
+    line-height: 80%;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-align: left;
+}
+
+.last {
+    font-size: 1.5em;  
+    color: red;
+}

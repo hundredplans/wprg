@@ -1,0 +1,15 @@
+h1, p {
+	color: green;
+	font-family: cursive;
+	font-size: 3em;
+	width: 30vw;
+	font-family: sans-serif;
+}
+
+li {
+	color: blue;
+	font-size: 80%;
+	font-family: Georgia, Serif;
+	background-color: powderblue;
+	border: 2px solid grey;
+}
